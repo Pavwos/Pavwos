@@ -28,9 +28,6 @@
 <a href="https://x.com/pavwos" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-pavwos-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://www.linkedin.com/in/raphael-pavanelli-1a3a712b3/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-raphael-pavanelli-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
 <a href="https://instagram.com/pawvos" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-pawvos-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
